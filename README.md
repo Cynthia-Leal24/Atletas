@@ -1,5 +1,5 @@
 
-## Buscador de Atletas Brasileiros: Um guia rápido e divertido!
+## Desvendando Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
